@@ -2,5 +2,13 @@
   "name": "Chetan Khulage",
   "fullName": "Chetan Yogesh Khulage",
   "profileImg": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_khulage.png",
-  "resumeUrl": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_yogesh_khulage_resume.pdf"
+  "resumeUrl": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_yogesh_khulage_resume.pdf",
+  "links": {
+    "portfolio2023": "https://portfolio2023-chetan-kk.vercel.app/",
+    "github": "https://github.com/Chetan-KK",
+    "linkedin": "https://www.linkedin.com/in/chetan-khulage",
+    "instagram": "https://www.instagram.com/c_h_e_t_a_n__k",
+    "youtube": "https://www.youtube.com/@chetankhulage",
+    "leetcode": "https://leetcode.com/Chetan-KK"
+  }
 }
