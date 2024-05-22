@@ -1,5 +1,33 @@
 [
   {
+    "title": "Portfolio 2024",
+    "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/main.webp",
+    "imgs": [
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/1.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/2.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/3.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/4.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/5.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/6.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/portfolio-2024/7.webp"
+    ],
+    "stack": [
+      "NEXT JS",
+      "TAILWIND",
+      "TYPESCRIPT",
+      "FRAMER-MOTION",
+      "FRAMER-MOTION",
+      "GSAP",
+      "REACT SCROLL PARALLAX"
+    ],
+    "desc": "This is my portfolio for 2024 (still in development)",
+    "link": "https://chetan-kk-portfolio2024.vercel.app",
+    "gitLink": "https://github.com/Chetan-KK/chetan-kk-portfolio2024",
+    "year": "3-2024",
+    "isInDevelopment": true
+  },
+
+  {
     "title": "Three js Portfolio",
     "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/threejs-portfolio-project/main.webp",
     "imgs": [
