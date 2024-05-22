@@ -16,7 +16,6 @@
       "TAILWIND",
       "TYPESCRIPT",
       "FRAMER-MOTION",
-      "FRAMER-MOTION",
       "GSAP",
       "REACT SCROLL PARALLAX"
     ],
@@ -24,6 +23,57 @@
     "link": "https://chetan-kk-portfolio2024.vercel.app",
     "gitLink": "https://github.com/Chetan-KK/chetan-kk-portfolio2024",
     "year": "3-2024",
+    "isInDevelopment": true
+  },
+  {
+    "title": "Sectioner UI",
+    "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/main.webp",
+    "imgs": [
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/2.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/3.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/4.webp"
+    ],
+    "stack": ["NEXT JS", "TAILWIND", "TYPESCRIPT", "ZUSTAND", "SHADCN UI"],
+    "desc": "UI library without any dependancy (still in development)",
+    "link": "https://sectioner-ui.vercel.app/",
+    "gitLink": "https://github.com/Chetan-KK/sectioner-ui",
+    "year": "1-2024",
+    "isInDevelopment": true
+  },
+
+  {
+    "title": "Web Blogger",
+    "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/webblogger/main.webp",
+    "imgs": [
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/webblogger/2.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/webblogger/3.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/webblogger/4.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/webblogger/5.webp"
+    ],
+    "stack": ["WORDPRESS"],
+    "desc": "I write blogs related to web development and desing (still in development)",
+    "link": "https://webblogger-chetan-kk.000webhostapp.com/",
+    "year": "5-2024",
+    "isInDevelopment": true
+  },
+
+  {
+    "title": "quotepaper.com",
+    "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/quotepaper/main.webp",
+    "imgs": [
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/quotepaper/2.webp"
+    ],
+    "stack": [
+      "NEXT JS",
+      "TAILWIND",
+      "TYPESCRIPT",
+      "MDX",
+      "ZUSTAND",
+      "REACT DRAGGABLE"
+    ],
+    "desc": "Website to create wallpapers with qutes (still in development)",
+    "link": "https://quotepaper.vercel.app/",
+    "year": "4-2024",
     "isInDevelopment": true
   },
 
