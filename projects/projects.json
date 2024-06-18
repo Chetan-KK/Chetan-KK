@@ -180,6 +180,22 @@
     "year": "3-2019"
   },
   {
+    "title": "Om Yoga",
+    "stack": ["HTML", "CSS", "REACT", "FORM-SUBIMT API", "AXIOS"],
+    "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/om-yoga/main.webp",
+    "imgs": [
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/om-yoga/2.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/om-yoga/3.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/om-yoga/4.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/om-yoga/5.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/om-yoga/6.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/om-yoga/7.webp"
+    ],
+    "desc": "This website is created with react for a yoga classes in Pune, where users can join their classes in online or offline mode",
+    "link": "https://yoga-website-ivor.vercel.app/",
+    "year": "6-2023"
+  },
+  {
     "title": "Youtube Clone",
     "stack": ["HTML", "CSS", "REACT", "GOOGLEAPIS"],
     "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/youtube-clone/main.webp",
