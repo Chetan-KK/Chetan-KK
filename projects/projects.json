@@ -42,6 +42,30 @@
   },
 
   {
+    "title": "Linkedin Post Maker",
+    "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/linkedin-post-maker/main.webp",
+    "imgs": [
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/linkedin-post-maker/2.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/linkedin-post-maker/3.webp",
+      "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/linkedin-post-maker/4.webp"
+    ],
+    "stack": [
+      "NEXT JS",
+      "TAILWIND",
+      "TYPESCRIPT",
+      "GIMINI AI",
+      "REACT CODE HIGHLIGHTER",
+      "ZUSTAND",
+      "SHADCN UI"
+    ],
+    "desc": "Easiest way to create linkedin post useing AI without any login or signup, it's just free for no reason!",
+    "link": "https://linkedin-post-maker.vercel.app/",
+    "gitLink": "https://github.com/Chetan-KK/linkedin-post-maker",
+    "year": "7-2024",
+    "isInDevelopment": false
+  },
+
+  {
     "title": "Web Blogger",
     "imgSrc": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/webblogger/main.webp",
     "imgs": [
