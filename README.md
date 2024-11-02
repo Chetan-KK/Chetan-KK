@@ -27,13 +27,17 @@ from <b>India</b>, I love to build new things on the internet.
 ## Stacks
 
 **languages**: Javascript, Typescript, C++, PHP, JSON, Python, Java, HTML, CSS, Markdown. <br/>
+
 **Databases**: MySQL, MongoDB, SQL, NoSQL. <br/>
+
 **Tools**: Git, GitHub, Docker, CLI. <br/>
+
 **Libraries and Frameworks**: React.js ,Next.js ,Node.js ,Express.js ,Axios ,Zustand ,Three.js ,React Three Fiber / Drei ,Tailwind ,ejs ,Sanity ,Wordpress. <br/>
+
 **Designing Tools**: Photoshop, Illustrator, Figma, Blender, Canva, Spline.
 
 <br/>
 
 [All repositories](https://github.com/chetan-kk?tab=repositories)
 
-![visits](https://komarev.com/ghpvc/?username=chetan-kk&label=Visitors&color=000000&style=for-the-badge&abbreviated=true)
+![visits](https://komarev.com/ghpvc/?username=chetan-kk&label=Visitors&color=141414&style=for-the-badge&abbreviated=true)
