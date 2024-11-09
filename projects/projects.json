@@ -34,7 +34,7 @@
       "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/projects/sectioner-ui/4.webp"
     ],
     "stack": ["NEXT JS", "TAILWIND", "TYPESCRIPT", "ZUSTAND", "SHADCN UI"],
-    "desc": "UI library without any dependancy (still in development)",
+    "desc": "Sectioner UI is a modern and lightweight UI library that simplifies the web design process by offering ready-to-use JSX and CSS module snippets. With no external dependencies, Sectioner UI provides a streamlined, easy-to-integrate solution for developers looking to add clean, customizable sections to their web applications. Built with responsiveness in mind, these components ensure your project looks polished on any device. Sectioner UI's pre-designed sections offer a quick way to enhance the aesthetic appeal of your site while keeping it modular and reusable across different parts of your application. This library is crafted for maximum flexibility, allowing developers to adapt components to their project's specific needs easily. Sectioner UI promotes accessibility, ensuring that designs are inclusive, while its developer-friendly API and clear documentation make it intuitive for users of all skill levels. With support for comprehensive styling and themes, Sectioner UI offers a robust foundation for building dynamic, attractive, and user-friendly websites without the need for additional libraries.",
     "link": "https://sectioner-ui.vercel.app/",
     "gitLink": "https://github.com/Chetan-KK/sectioner-ui",
     "year": "1-2024",
