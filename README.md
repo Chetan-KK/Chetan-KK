@@ -8,7 +8,7 @@ from <b>India</b>, I love to build new things on the internet.
 
 <br />
 
-### Socials: [Portfolio](https://portfolio2023-chetan-kk.vercel.app), [Linkedin](https://portfolio2023-chetan-kk.vercel.app), [Twitter](https://portfolio2023-chetan-kk.vercel.app), [Instagram](https://portfolio2023-chetan-kk.vercel.app).
+### Socials: [Portfolio](https://chetan-kk-portfolio2023.vercel.app), [Linkedin](https://linkedin.com/in/chetan-khulage), [Twitter](https://x.com/chetan_khulage), [Instagram](https://instagram.com/c_h_e_t_a_n__k).
 
 ## About me
 
