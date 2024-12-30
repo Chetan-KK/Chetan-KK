@@ -2,7 +2,7 @@
 Hello, I'm <a href="https://portfolio2023-chetan-kk.vercel.app/">Chetan khulage</a>
 </h1>
 <h3>
-MENR stack / THREE JS Developer and UI/UX Designer
+MERN stack / THREE JS Developer and UI/UX Designer
 </h3>
 from <b>India</b>, I love to build new things on the internet.
 
