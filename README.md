@@ -40,6 +40,6 @@ from <b>India</b>, I love to build new things on the internet.
 
 [All repositories](https://github.com/chetan-kk?tab=repositories)
 
-[![An image of @chetankk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chetankk)](https://holopin.io/@chetankk)
+[![An image of @chetankk's](https://holopin.me/chetankk)](https://holopin.io/@chetankk)
 
 ![visits](https://komarev.com/ghpvc/?username=chetan-kk&label=Visitors&color=141414&style=for-the-badge&abbreviated=true)
