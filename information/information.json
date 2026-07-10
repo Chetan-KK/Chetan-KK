@@ -1,10 +1,17 @@
 {
   "name": "Chetan Khulage",
   "fullName": "Chetan Yogesh Khulage",
-  "profileImg": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_khulage.jpg",
+  "profileImg": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_khulage.webp",
   "resumeUrl": "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_yogesh_khulage_resume.pdf",
   "resumeDocUrl": "https://docs.google.com/document/d/1UqwdULkeYZ5UKIWNxhFYKqoXQjMd-0v9KMjogAcGOeI/edit?usp=sharing",
   "emailId": "chetankhulage350@gmail.com",
+  "images":[
+    "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_khulage.webp",
+    "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_khulage_2.webp",
+    "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_khulage_3.webp",
+    "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_khulage_4.webp",
+    "https://raw.githubusercontent.com/chetan-kk/chetan-kk/main/information/chetan_khulage_5.webp"
+  ],
   "links": {
     "portfolio2023": "https://portfolio2023-chetan-kk.vercel.app/",
     "github": "https://github.com/Chetan-KK",
